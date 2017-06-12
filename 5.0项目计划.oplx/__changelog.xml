@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<changelog xmlns="http://www.omnigroup.com/namespace/OmniPlan/v2">
+  <version>2.1</version>
+  <task-change-set user="wuheng" date="2017-03-09T05:33:48.612Z" timestamp="2017-03-09T05:33:48.612Z">
+    <change idref="t7" to="t-1" to-position="1" resolved="yes">
+      <change idref="t7" attribute="effort" type="real" from="28800" to="57600"/>
+      <change idref="t7" attribute="noEarlierThanConstraintDate" type="date" to="2017-03-16T00:15:00.000Z"/>
+      <change idref="t7" attribute="notesAllowingNil" type="textdata" to="e1xydGYxXGFuc2lcYW5zaWNwZzkzNlxjb2NvYXJ0ZjE1MDRcY29jb2FzdWJydGY4MTAKe1xmb250dGJsXGYwXGZuaWxcZmNoYXJzZXQwIEhlbHZldGljYU5ldWU7XGYxXGZuaWxcZmNoYXJzZXQxMzQgUGluZ0ZhbmdTQy1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDg1XGdyZWVuODVcYmx1ZTg1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O1xjc2dyYXlcYzQwOTIyO30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIFx1cDAgXG5vc3VwZXJzdWIgXHVsbm9uZSBcb2JsaXF1ZW5lc3MwIFxleHBhbnNpb24wIDUuMApcZjEgXCdiMlwnZmFcJ2M2XCdiN1wnZDdcJ2Q2XCdiNlwnY2VcJ2Q0XCdiY1wnY2FcJ2Y4XCdjZVwnYzRcJ2I1XCdiNVwnZDdcJ2FiXCdkMFwnYjQKXGYwIFwKNS4wClxmMSBcJ2IyXCdmYVwnYzZcJ2I3XCdiZFwnYmJcJ2JiXCdhNVwnY2VcJ2M0XCdiNVwnYjVcJ2Q3XCdhYlwnZDBcJ2I0ClxmMCBcCjUuMApcZjEgXCdiMlwnZmFcJ2M2XCdiN1wnYjlcJ2E2XCdjNFwnZGNcJ2NlXCdjNFwnYjVcJ2I1XCdkN1wnYWJcJ2QwXCdiNH0="/>
+      <change idref="t7" attribute="title" type="string" to="5.0产品文档撰写"/>
+    </change>
+    <change idref="t1" attribute="title" type="string" from="任务 1" to="5.0高保真设计" resolved="yes"/>
+    <change idref="t1" attribute="effort" type="real" from="28800" to="144000" resolved="yes"/>
+    <change idref="t1" attribute="internalAssignments" type="string" from="" to="2" resolved="yes"/>
+  </task-change-set>
+  <resource-change-set user="wuheng" date="2017-03-09T05:33:48.612Z" timestamp="2017-03-09T05:33:48.612Z">
+    <change idref="r2" to="r-1" to-position="1" resolved="yes">
+      <change idref="r2" attribute="name" type="string" to="杨洋"/>
+    </change>
+    <change idref="r3" to="r-1" to-position="2" resolved="yes">
+      <change idref="r3" attribute="name" type="string" to="吴衡"/>
+    </change>
+    <change idref="r4" to="r-1" to-position="3" resolved="yes">
+      <change idref="r4" attribute="name" type="string" to="王飞"/>
+    </change>
+    <change idref="r5" to="r-1" to-position="4" resolved="yes">
+      <change idref="r5" attribute="name" type="string" to="资源 1"/>
+    </change>
+    <change idref="r1" attribute="name" type="string" from="资源 1" to="张吉斌" resolved="yes"/>
+  </resource-change-set>
+  <metadata-change-set user="wuheng" date="2017-03-09T05:33:48.612Z" timestamp="2017-03-09T05:33:48.612Z">
+    <change idref="m1" attribute="fixedDate" type="date" from="2007-01-01T20:00:00.000Z" to="2017-03-09T00:00:00.000Z" resolved="yes"/>
+  </metadata-change-set>
+</changelog>
